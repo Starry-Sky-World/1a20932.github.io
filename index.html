@@ -8,6 +8,16 @@
 		<meta name="description" content="个人引导页面">
 		<script src="js/sweetalert.min.js"></script>
 		<script src="js/jquery.min_1.js"></script>
+		<!-- JS -->
+		<script>
+			function notice_tc(){
+				Swal.fire("刘钦宇の博客重新归来！",
+				"Power By 刘钦宇",
+				'success',
+				html=true
+				)
+			}
+		</script>
 		<link rel="stylesheet" href="css/main.css">
 		<noscript><link rel="stylesheet" href="css/noscript.css"></noscript>
 	</head>
@@ -16,13 +26,6 @@
 			<div id="wrapper">
 				<!-- Header -->
 					<header id="header">
-						<script>
-							swal({
-							  title: "网站重新归来！",
-							  text: "Power By 刘钦宇",
-							  icon: "success"
-							});
-						</script>
 						<div class="logo">
 							<img src="https://q.qlogo.cn/g?b=qq&nk=1280993766&s=100" class="logo" alt="阿付" title="阿付">
 						</div>
@@ -37,8 +40,8 @@
 							<ul>
 								<li><a href="https://weycloud.top" target="_blank">微智云</a></li>
 								<li><a href="#licheng">发展历程</a></li>
-								<!-- <li><a href="https://space.bilibili.com/638045751" target="_blank">我的B站</a></li>
-								<li><a href="https://www.rainyun.com/zhea_" target="_blank">服务器推荐</a></li> -->
+								<li><a onclick="notice_tc()" target="_blank">公告</a></li>
+								<!-- <li><a href="https://www.rainyun.com/zhea_" target="_blank">服务器推荐</a></li> -->
 							</ul>
 						</nav>
 					</header>
