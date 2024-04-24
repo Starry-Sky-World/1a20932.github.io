@@ -8,21 +8,21 @@ hero:
   tagline: LiuQinYu的所有项目文档
   actions:
     - theme: brand
-      text: 指南
-      link: /markdown-examples
+      text: 首页
+      link: /
     - theme: alt
       text: 项目列表
-      link: /api-examples
+      link: /project/index
     - theme: alt
       text: LiteLoaderPlugin
       link: /LLQQNT/index.md
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#features:
+#  - title: Feature A
+#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#  - title: Feature B
+#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#  - title: Feature C
+#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
