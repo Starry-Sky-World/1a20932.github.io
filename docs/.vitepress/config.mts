@@ -7,14 +7,17 @@ export default defineConfig({
   rewrites: {
     'source/:page': 'destination/:page'
   },
+  lastUpdated: true,
   themeConfig: {
+    logo: '/image/logo.jpg',
     search: {
       provider: 'local'
     },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },
-      { text: '指南', link: '/#' }
+      { text: 'LLQQNT', link: '/LLQQNT/' },
+      { text: '项目', link: '/project/' },
     ],
 
     sidebar: [

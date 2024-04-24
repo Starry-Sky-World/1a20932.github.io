@@ -6,6 +6,9 @@ hero:
   name: "Project Docs"
   text: "LiuQinyu's all project docs"
   tagline: LiuQinYu的所有项目文档
+  image:
+    src: /image/logo.jpg
+    alt: logo
   actions:
     - theme: brand
       text: 首页
