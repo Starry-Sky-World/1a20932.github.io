@@ -39,6 +39,11 @@ jobs:
         with:
           node-version: 20
           cache: npm # 或 pnpm / yarn
+<<<<<<< Updated upstream
+=======
+      - name: 安装Node:VitePress
+        run: npm install -g vitepress
+>>>>>>> Stashed changes
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Install dependencies
