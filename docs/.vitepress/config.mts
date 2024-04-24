@@ -25,7 +25,7 @@ export default defineConfig({
         text: '项目',
         items: [
           { text:'主页' , link: '/project/'},
-          { text: 'SMSboom-HXCZ', link: '/project/smsboom-hxcz' }
+          { text: 'SMSboom-HXCZ', link: '/project/smsboom-hxcz' },
           { text:'MiniMinecraftMod-Copier', link: '/project/MiniMinecraftMod-Copier'}
         ]
       },
