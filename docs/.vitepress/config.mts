@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Project Docs",
-  description: "LiuQinyu's all project docs",
+  description: "SuperLinkStudio's all project docs",
   rewrites: {
     'source/:page': 'destination/:page'
   },

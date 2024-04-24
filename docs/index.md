@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Project Docs"
-  text: "LiuQinyu's all project docs"
-  tagline: LiuQinYu的所有项目文档
+  text: "SuperLinkStudio's all project docs"
+  tagline: SuperLinkStudio的所有项目文档
   image:
     src: /image/logo.jpg
     alt: logo
