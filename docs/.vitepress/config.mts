@@ -9,7 +9,7 @@ export default defineConfig({
   },
   lastUpdated: true,
   themeConfig: {
-    logo: '/image/logo.jpg',
+    logo: 'https://avatars.githubusercontent.com/u/114594856?s=200&v=4',
     search: {
       provider: 'local'
     },

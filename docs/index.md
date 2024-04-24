@@ -7,7 +7,7 @@ hero:
   text: "SuperLinkStudio's all project docs"
   tagline: SuperLinkStudio的所有项目文档
   image:
-    src: /image/logo.jpg
+    src: https://avatars.githubusercontent.com/u/114594856?s=200&v=4
     alt: logo
   actions:
     - theme: brand
