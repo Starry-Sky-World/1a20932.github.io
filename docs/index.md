@@ -5,14 +5,17 @@ layout: home
 hero:
   name: "Project Docs"
   text: "LiuQinyu's all project docs"
-  tagline: My great project tagline
+  tagline: LiuQinYu的所有项目文档
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 指南
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: 项目列表
       link: /api-examples
+    - theme: alt
+      text: LiteLoaderPlugin
+      link: /LLQQNT
 
 features:
   - title: Feature A
