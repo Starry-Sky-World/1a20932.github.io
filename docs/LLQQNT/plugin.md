@@ -8,6 +8,9 @@
 
 > 底部滑动查看完整URL
 
+> 一定要启用下图中的小标志！！！
+![Image](../public/image/2024-4-24-21-25.png "一定要启用这个小标志！")
+
 | Repo | Branch | Github Address |
 | --- | --- | --- |
 | mo-jinran/chii-devtools | v4 | <https://github.com/mo-jinran/chii-devtools/tree/v4> |
