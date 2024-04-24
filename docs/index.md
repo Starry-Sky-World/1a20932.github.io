@@ -15,7 +15,7 @@ hero:
       link: /api-examples
     - theme: alt
       text: LiteLoaderPlugin
-      link: /LLQQNT
+      link: /LLQQNT/index.md
 
 features:
   - title: Feature A

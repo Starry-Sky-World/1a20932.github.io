@@ -6,6 +6,8 @@
 
 > 部分数据由Qwen LLM生成Markdown格式的列表和Github仓库链接，请注意鉴别！
 
+> 底部滑动查看完整URL
+
 | Repo | Branch | Github Address |
 | --- | --- | --- |
 | mo-jinran/chii-devtools | v4 | <https://github.com/mo-jinran/chii-devtools/tree/v4> |
