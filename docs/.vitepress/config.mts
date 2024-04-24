@@ -39,7 +39,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-       { icon: 'github', link: 'https://github.com/1a20932' }
+       { icon: 'github', link: 'https://github.com/SuperLinkStudio' }
     ]
   }
 })
