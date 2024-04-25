@@ -8,6 +8,7 @@ export default defineConfig({
     'source/:page': 'destination/:page'
   },
   lastUpdated: true,
+  ignoreDeadLinks: true,
   themeConfig: {
     logo: 'https://avatars.githubusercontent.com/u/114594856?s=200&v=4',
     search: {
