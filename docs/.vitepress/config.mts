@@ -33,6 +33,7 @@ export default defineConfig({
         text: 'LLQQNT',
         items: [
           { text: '主页', link: '/LLQQNT/' },
+          { text: '安装LLQQNT', link: '/LLQQNT/install'},
           { text: '插件列表', link: '/LLQQNT/plugin' }
         ]
       },
