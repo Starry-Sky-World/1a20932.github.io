@@ -35,7 +35,8 @@ export default defineConfig({
           { text: '主页', link: '/LLQQNT/' },
           { text: '安装LLQQNT', link: '/LLQQNT/install'},
           { text: '安装LiteLoaderPlugin', link: '/LLQQNT/install_plugin'},
-          { text: '插件列表', link: '/LLQQNT/plugin' }
+          { text: '插件列表', link: '/LLQQNT/plugin' },
+          { text: '共同开发LLQQNT插件商店', link: '/LLQQNT/plugin_store'}
         ]
       },
     ],
