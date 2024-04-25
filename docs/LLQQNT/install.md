@@ -7,7 +7,12 @@ title: "安装LLQQNT"
 此文档为 LiteLoaderQQNT 1.1.x 编写
 :::
 
-
+## 自动安装
+> 程序来自于`Mzdyl/LiteLoaderQQNT_Install`的`1.11`版本
+> Windows需要管理员权限运行
+- [MAC](/File/install_mac.sh)
+- [Linux](/File/install_linux.sh)
+- [Windows](/File/install_windows.exe)
 
 ## 第三方工具
 
