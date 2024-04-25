@@ -10,8 +10,8 @@ title: "安装LLQQNT"
 ## 自动安装
 > 程序来自于`Mzdyl/LiteLoaderQQNT_Install`的`1.11`版本
 > Windows需要管理员权限运行\
-[MAC](https://docs.superlinkstudio.top/File/install_mac.sh){target="_self"}
-[Linux](https://docs.superlinkstudio.top/File/install_linux.sh){target="_self"}
+[MAC](https://docs.superlinkstudio.top/File/install_mac.sh){target="_self"} \
+[Linux](https://docs.superlinkstudio.top/File/install_linux.sh){target="_self"} \
 [Windows](https://docs.superlinkstudio.top/File/install_windows.exe){target="_self"}
 
 ::: tip 更新日志
