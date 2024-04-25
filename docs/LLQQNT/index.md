@@ -1,7 +1,7 @@
 # 欢迎来到LiteLoaderPlugin
 > 这是一个插件站，用于展示LiteLoaderQQNT插件。
 
-> 插件站由'Github@1a20932'提供相应支持与维护。
+> 插件站由`Github@1a20932`提供相应支持与维护。
 
 > 你需要知道LLQQNT的安装方法吗？请前往[这里](./install.md)。\
 > 安装插件教程：[这里](./install_plugin.md) \
