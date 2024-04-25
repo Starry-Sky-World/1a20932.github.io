@@ -3,6 +3,7 @@
 
 > 插件站由'Github@1a20932'提供相应支持与维护。
 
+> 你需要知道LLQQNT的安装方法吗？请前往[这里](./install.md)。\
 > 点击[这里](./plugin.md)开始吧！
 
 > 或者继续下滑观看LiteLoaderQQNT的简介。
