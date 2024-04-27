@@ -13,3 +13,11 @@
 如果您真的想使用其他模型，我们只能提醒您，我们只对了gemma进行适配，其他模型可能无法使用，后果自行承担
 `get_answer --model {模型名称} {您的问题}`
 :::
+
+## HTTP API
+### [GET/POST]原版加强
+> `/api/generate`
+
+#### 示例
+> GET `/api/generate?prompt=Hello` \
+Response:
