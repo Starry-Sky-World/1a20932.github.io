@@ -20,4 +20,4 @@
 
 #### 示例
 > GET `/api/generate?prompt=Hello` \
-Response:
+Response:``
