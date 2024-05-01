@@ -15,8 +15,9 @@
 :::
 
 ## HTTP API
-### [GET/POST]原版加强
 > `/api/generate`
+> `/ctask`
+> `/get_task`
 
 #### 示例
 ##### GET `/api/generate?prompt=Hello` \
