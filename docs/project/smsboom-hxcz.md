@@ -32,7 +32,7 @@
 
 #### Step1. 下载 *.py 文件
 
- 请移步到项目的 [release](https://github.com/SuperLinkStudio/SMSboob-HXCZ/releases) 下载
+ 请移步到项目的 [release](https://github.com/SuperLinkStudio/SMSboom-HXCZ/releases) 下载
 
  > 若遇到国内网络环境下载不下来,请参见 [https://github.do/](https://github.do/) 等加速镜像.
 
