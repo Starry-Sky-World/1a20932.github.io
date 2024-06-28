@@ -21,7 +21,8 @@ export default defineConfig({
       { text: '项目', link: '/project/' },
     ],
 
-    sidebar: [
+    sidebar: {
+      "/":[
       {
         text: '项目',
         items: [
@@ -29,9 +30,10 @@ export default defineConfig({
           { text: 'SMSboom-HXCZ', link: '/project/smsboom-hxcz' },
           { text:'MiniMinecraftMod-Copier', link: '/project/MiniMinecraftMod-Copier'},
           { text:'Ollama-Services-Forwarding', link: '/project/ollama-services-forwarding'},
+          { text:'Ollama-Services-Forwarding', link: '/project/ollama-services-forwarding'},
         ]
-      },
-      {
+      }],
+      "/LLQQNT/":[{
         text: 'LLQQNT',
         items: [
           { text: '主页', link: '/LLQQNT/' },
@@ -40,8 +42,8 @@ export default defineConfig({
           { text: '插件列表', link: '/LLQQNT/plugin' },
           { text: '共同开发LLQQNT插件商店', link: '/LLQQNT/plugin-store'}
         ]
-      },
-    ],
+      }],
+    },
 
     socialLinks: [
        { icon: 'github', link: 'https://github.com/SuperLinkStudio' }
