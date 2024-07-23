@@ -43,6 +43,10 @@ jobs:
         run: npm install vitepress
       - name: 安装Page
         uses: actions/configure-pages@v4
+      - name: 安装VitePress
+        run: |
+          npm install -g vitepress
+          npm install -D vitepress
       - name: 安装依赖项，配置package-lock.json
         run: npm install # 或 pnpm install / yarn install / bun install
       - name: 生成VitePress的静态HTML文件
