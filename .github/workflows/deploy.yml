@@ -46,7 +46,7 @@ jobs:
       - name: 安装依赖项，配置package-lock.json
         run: npm install # 或 pnpm install / yarn install / bun install
       - name: 生成VitePress的静态HTML文件
-        run: npm run docs:build
+        run: sudo npm run docs:build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
